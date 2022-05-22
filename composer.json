@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "openpsa/midcom-core": "^9.9.1",
-        "openpsa/fi-protie-navigation": "^9.9.1"
+        "openpsa/midcom-core": "dev-main",
+        "openpsa/fi-protie-navigation": "dev-main"
     },
     "prefer-stable": true,
     "minimum-stability": "dev",
